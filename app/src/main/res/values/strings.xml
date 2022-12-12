@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InventoryManagement</string>
+    <string name="facebook_username">Haseeb Abdul Malik</string>
+    <string name="twitter_username">SYSQBIT</string>
+    <string name="owner_whatsapp_number">+3150086622</string>
+    <string name="about">Inventory management is the process used by businesses to identify, order, store, and sell inventory (raw materials, components, and finished products) from purchase to final sale. The process aims to watch for supply and demand trends so it can guarantee the business has necessary items in stock at all times.</string>
+</resources>
